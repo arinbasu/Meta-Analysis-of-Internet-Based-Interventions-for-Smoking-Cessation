@@ -1,0 +1,3 @@
+# Chapter 1: Summary of the Thesis
+
+The purpose of the paper/thesis is to provide a meta analysis of the effectiveness of Internet based smoking cessation programmes and longer term smoking cessation. The meta analysis was based on English language articles published in the previous 10 years, and randomised controlled trials of all studies where either a cell ophone based or Internet based intervention was provided for cessation of smoking 
