@@ -10,3 +10,5 @@
 
 ## Statement of the Objective of the Thesis
 
+## Organisation of the Thesis
+
