@@ -1,4 +1,4 @@
-# Chapter 2; Introduction and Background
+# Chapter 2: Introduction and Background
 
 ## What do We Know about Internet based smoking cessation programmes
 
