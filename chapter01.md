@@ -9,23 +9,38 @@ The purpose of the paper/thesis is to provide a meta analysis of the effectivene
 **GLOSSARY OF TERMS
 
 Cell phone: An electronic telecommunications device which connects to a wireless communications network through radio wave or satellite transmission. A small portable telephone.
-Cell phone-based interventions: Interventions which use the Cell phone as a main component and include text messages, applications, phone calls
-Cigarette: dried leaves of a tobacco plant rolled in rice paper to create a small round cylinder (cigarette)
-Co-verified 4-week quitter: A self –reported quitter who’s air CO was assessed and found at less than 10ppm.
-Current Smokers: Adults who have smoked 100 cigarettes in their life time and currently smoke cigarettes every day (daily) or on some days (non-daily)
-Former Smokers: Adults who have smoked at least 100 cigarettes in their life time but say they currently do not smoke
-Internet: A global system of interconnected computer networks that serve billions of people world-wide
-Internet- based interventions: Interventions which use the Internet as a main component and         include emails, accessing websites, online discussion forums, private chat online
-Never Smokers: Adults who have never smoked a cigarette or who smoked fewer than 100 cigarettes in their entire life time
-Non-Smokers: Adults who currently do not smoke cigarettes, including both former smokers and never smokers
-Self-help booklets: Books or manuals inclusive of information written with the intention to instruct its readers on solving personal problems
-Self-help treatment: Treatment of the self without any supervision of a health professional
-Self-reported 4-week quitter: A treated smoker, assessed after 4 weeks after designated quit date who declares has not smoked a single puff
-Smoking: The practice in which a substance (cigarette) is burned and the resulting smoke is breathed in to be tasted and absorbed into the blood stream
-Smoking Cessation: The process of discontinuing tobacco smoking
-SOS: An  urgent appeal for help, in smoking cessation programmes referred to participants needing urgent advice on how to cope with craving and withdrawal symptoms 
-Treated smoker: A smoker who undergoes at least one treatment session on or prior to quit date
 
+Cell phone-based interventions: Interventions which use the Cell phone as a main component and include text messages, applications, phone calls
+
+Cigarette: dried leaves of a tobacco plant rolled in rice paper to create a small round cylinder 
+
+Co-verified 4-week quitter: A self –reported quitter who’s air CO was assessed and found at less than 10ppm.
+
+Current Smokers: Adults who have smoked 100 cigarettes in their life time and currently smoke cigarettes every day (daily) or on some days (non-daily)
+
+Former Smokers: Adults who have smoked at least 100 cigarettes in their life time but say they currently do not smoke
+
+Internet: A global system of interconnected computer networks that serve billions of people world-wide
+
+Internet- based interventions: Interventions which use the Internet as a main component and include emails, accessing websites, online discussion forums, private chat online
+
+Never Smokers: Adults who have never smoked a cigarette or who smoked fewer than 100 cigarettes in their entire life time
+
+Non-Smokers: Adults who currently do not smoke cigarettes, including both former smokers and never smokers
+
+Self-help booklets: Books or manuals inclusive of information written with the intention to instruct its readers on solving personal problems
+
+Self-help treatment: Treatment of the self without any supervision of a health professional
+
+Self-reported 4-week quitter: A treated smoker, assessed after 4 weeks after designated quit date who declares has not smoked a single puff
+
+Smoking: The practice in which a substance (cigarette) is burned and the resulting smoke is breathed in to be tasted and absorbed into the blood stream
+
+Smoking Cessation: The process of discontinuing tobacco smoking
+
+SOS: An  urgent appeal for help, in smoking cessation programmes referred to participants needing urgent advice on how to cope with craving and withdrawal symptoms
+
+Treated smoker: A smoker who undergoes at least one treatment session on or prior to quit date
 
 **Abbreviations**
 
@@ -47,5 +62,6 @@ TTM- Trans-theoretical Model of Behaviour Change
 WHO- World Health Organization
 
 
+    
     
     
