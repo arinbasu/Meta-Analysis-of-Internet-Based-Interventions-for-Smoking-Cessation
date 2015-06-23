@@ -18,12 +18,12 @@ __
      
 West (2009) proposed The Russell Standard, which defines the smoking status in clinical research for monitoring the throughout success rates of stop smoking services, allowing meaningful direct comparisons between the services. The Russell Standard outlines six criteria including a) A ‘treated smoker (TS)’ is a smoker who undergoes at least one treatment session on or prior to the quit date. Smokers who attended an assessment session but fail to attend thereafter will not be counted. Neither are smokers who have already stopped smoking at the time they first came to the attention of the services; b) A smoker is counted as a ‘self-reported 4-week quitter (SR4WQ)’ if he/she is a ‘treated smoker’, is assessed (face-to-face, by postal questionnaire or by telephone) 4 weeks after the designated quit date (minus 3 days or plus 14 days) and declares that he/she has not smoked even a single puff on a cigarette in the past 2 weeks, c) A smoker is counted as a ‘Co-verified 4-week quitter (4WQ) if he/she is a ‘self-reported 4-week quitter’ and his/her expired –air CO is assessed  4 weeks after the designated quit date (minus 3 days or plus 14 days) and found to be less than 10ppm; d) A smoker is counted as ‘lost to follow up at 4 weeks (LFU4W)’ if on attempting to determine the 4 –week quitter status, he/she cannot be contacted; e) A smoker is counted as a ’52-weeks quitter (52WQ)’ if he/ she is a ‘treated smoker’, is assessed (Face-to face, by postal questionnaire or telephone) 52 weeks after the designated quit date (plus or minus 30days) and declares that he/she has not smoked more than five cigarettes in the past 50 weeks, f) A ‘treated smoker’ is counted as a ‘lost to follow up at 52 weeks (LFU52W)’ if on attempting to determine the 52-week quitter status, he/she cannot be contacted.
 
-_3.3.2 Trans-theoretical Model of Behaviour Change (TTM)_
+## 3.3.2 Trans-theoretical Model of Behaviour Change (TTM)
 
      Prochaska and DiClemente (1983) developed the Trans-theoretical Model of Behaviour Change which describes the progression through which smokers go through before terminating their addiction. This model of behaviour change divides itself into the stages of change, processes of change and levels of change and it identifies five stages of readiness for changing a health behaviour including smoking behaviour among smokers: 1) pre-contemplation, 2) contemplation, 3) preparation, 4) action and 5) maintenance (Prochaska & DiClemente, 1983). Pre-contemplation is described as the stage in which smokers are not thinking about quitting or intending to quit in the next 6 months. The reason for this may be people may not be informed about the consequences of smoking and demoralized in their ability to make the behaviour change. They may be resistant or unmotivated for behavioural change (Prochaska & DiClemente, 1983). The next stage is the contemplation stage, in which individuals are considering quitting within the next 6 months and people in this stage are more aware of the benefits of quitting. Furthermore, the preparation stage includes smokers who are intending on quitting smoking within the next 30 days. These smokers may have taken action in the past by reducing smoking or making a quit attempt and they also have a plan for action (Prochaska & Velicer, 1997). The action stage is the stage in which smokers have quit during the past 6 months and the maintenance stage consists of people who have quit for more than 6 months. This model also recognizes that people move through the stages in a spiral pattern in which some people progress through and relapse while others progress and successfully quit. (Velicer et al, 2004).
 
 
-_2.3.3 Internet- and Cell phone components included in smoking cessation programmes_
+## 2.3.3 Internet- and Cell phone components included in smoking cessation programmes
 
      More health care providers are now including Internet and Cell phone components inclusive of text messaging, emails, accessing websites, accessing video clips online, access to online discussion forums and information within their smoking cessation programmes. The Internet and Cell phone allows people to receive information and treatment at any time, wherever they are and it provides anonymity. 
 
@@ -51,14 +51,14 @@ Internet & Cell phone
 112 articles were retrieved from the main database search and five articles were retrieved from other database searches. After duplicates were removed, the title and abstract of 92 articles was studied and four articles were gained and discovered using the reference research method. Full text was obtained of 25 articles and seven articles were obtained from a previous search of the literature.  The seven articles which were obtained from a previous search of the literature were used to demonstrate evidence of previous research conducted in smoking cessation. After all fourteen studies met the inclusion criteria after their full texts have been assessed and were further investigated in this Meta-Analysis.
 
 
-****2.6 Meta-Analysis**
+**2.6 Meta-Analysis**
 
-_ __2.6.1. The Role of this Meta-Analysis_
+## 2.6.1. The Role of this Meta-Analysis
  
      A Meta-Analysis was conducted to investigate the role of Internet-and Cell phone-based interventions ‘delivered via email, accessing websites, text messages’ to achieve longer-term cessation of smoking among adult smokers. A Meta-Analysis is referred to as a statistical combination of results from two or more primary studies (Cochrane, 2008). A Meta-Analysis refers to a method that uses statistical techniques to combine results from different studies to obtain a quantitative estimate of the overall effect of a particular intervention on a defined outcome. It is a statistical process for pooling data from many clinical trials to gain a clear conclusion (Medical Dictionary, 2015). 
      There are several advantages in conducting a Meta-Analysis. These include achieving an increase in power as power is referred to as the chance of detecting a real effect of statistical significance if it exists, to improve accuracy known as the estimation of intervention effect which can be improved if it is based on more information, to assist in answering questions which are not presented by individual primary studies due to them involving a specific type of participants and specifically defined interventions, this way a selection of studies in which these specific characteristics differ can allow investigation  of the consistency of effect and reasons for the difference in effect estimates, to settle controversies arising from apparently conflicting studies and to generate new hypotheses. For this reason this statistical analysis of findings allows the degree of conflict to be formally assessed and reasons for different results to be explored and quantified.
      
-_2.6.2 Randomized controlled trials included in this Meta-Analysis_
+## 2.6.2 Randomized controlled trials included in this Meta-Analysis
 
      Fourteen studies met the inclusion criteria after their full texts have been assessed.
 Three of them inclusive of Borland (2013), Brendryen (2008) and Brendryen (2008) assessed both Internet- and Cell phone-based interventions. Six of them inclusive of Elfeddali (2012), Haug (2011), McKay (2008), Seidman (2010), Wangberg (2011) and Zbikowski (2011) evaluated Internet-based interventions. Additionally five studies inclusive of Free (2009), Free (2011), Haug (2013), Rodgers (2005) and Skov-Ettrup (2014) investigated Cell phone-based interventions. Furthermore (Brendryen 2008) included Nicotine Replacement Therapy and Zbikowski (2011) included additional telephone calls.
@@ -94,6 +94,7 @@ Recruitment
 
      An overall Analysis inclusive of a Fixed-effect and a Random-effect Analysis of all fourteen studies was conducted. Previously was decided that if heterogeneity was found among studies, individual subgroup analyses would be conducted to further investigate these results. The details of this are described in the Methods section.
 
+    
     
     
     
