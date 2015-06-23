@@ -3,8 +3,7 @@
 The purpose of the paper/thesis is to provide a meta analysis of the effectiveness of Internet based smoking cessation programmes and longer term smoking cessation. The meta analysis was based on English language articles published in the previous 10 years, and randomised controlled trials of all studies where either a cell phone based or Internet based intervention was provided for cessation of smoking 
 
 **ABSTRACT**
-
-     Smoking is a leading cause of preventable diseases and death world-wide and within New Zealand.  To date, a lot of previous research has been conducted and this suggests that Internet- and Cell phone-based interventions are effective to achieve cessation of smoking however the effects are short-term. 
+     Smoking is a leading cause of preventable diseases and death world-wide and within New Zealand.To date, a lot of previous research has been conducted and this suggests that Internet- and Cell phone-based interventions are effective to achieve cessation of smoking however the effects are short-term. 
      The purpose of this Meta-Analysis was to investigate the effectiveness of Internet-and Cell phone-based interventions to achieve longer-term cessation of smoking among adolescent and adult smokers. The analysis was conducted assessing primary studies (randomized controlled trials) which reported outcomes at six months or longer. Studies were included based on an Inclusion and Exclusion criteria. Randomized Controlled Trials were considered for inclusion if their interventions were Internet- and Cell phone-based, and in which the comparison group received either any other intervention or an intervention inclusive of but not limited to Internet-or Cell phone-based interventions delivered at a lower frequency. Both a Fixed- and a Random-Effects Meta-Analysis was conducted between all studies to assess the length of abstinence. Furthermore the individual studies were grouped using an outcome theme and five subgroup analyses were conducted.
 
 **GLOSSARY OF TERMS
@@ -48,4 +47,5 @@ TTM- Trans-theoretical Model of Behaviour Change
 WHO- World Health Organization
 
 
+    
     
