@@ -45,23 +45,39 @@ Treated smoker: A smoker who undergoes at least one treatment session on or prio
 **Abbreviations**
 
 CO- Carbon Monoxide
+
 COPD- Chronic obstructive pulmonary disease
+
 CVD- Cardio-vascular disease
+
 ITT- Intention-to-treat
+
 LFU- Lost to follow up
+
 MMS- Multi-media Message Service
+
 MOH- Ministry of Health
+
 NRT- Nicotine Replacement Therapy
+
 NZHS-New Zealand Health Survey
+
 RCT- Randomized Controlled Trial
+
 SHS- Second-hand smoke
+
 SMS- Short Message Service
+
 SR- Self-reported
+
 TS- Treated smoker
+
 TTM- Trans-theoretical Model of Behaviour Change
+
 WHO- World Health Organization
 
 
+    
     
     
     
