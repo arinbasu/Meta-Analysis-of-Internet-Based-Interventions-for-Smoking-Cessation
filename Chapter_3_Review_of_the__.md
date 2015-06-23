@@ -1,13 +1,11 @@
 # Chapter 3: Review of the Literature
 
-Review the literature about smoking cessation, Internet based interventions, etc
-
-
-    2.1 Overview
+2.1 Overview
        This chapter provides background information about previous research which suggests that Internet-and Cell phone-based interventions have the potential to achieve short –term cessation of smoking and it includes a description of each of these studies. Furthermore it provides information about risk factors for smoking among adolescents and adults, benefits of Smoking Cessation and Internet- and Cell phone-based interventions, the search of the literature and information about this Meta-Analysis.
 
 2.2 Smoking among adolescents and adults
- 2.2.1 Smoking often starts in adolescence. ‘In abstinence of intervention, adolescent smokers will most likely become adult smokers’ (USDHHS, 2014).
+ _2.2.1 Risk factors for smoking among adolescents and adults_
+ Smoking often starts in adolescence. ‘In abstinence of intervention, adolescent smokers will most likely become adult smokers’ (USDHHS, 2014).
      There are many risk factors for cigarette smoking among adolescents and adults. Joffer et al. (2014) indicated that smoking most often starts sometime during adolescence and continuous through to adulthood if no intervention was successful or was sought. Findings from this research suggested that peers, friends, siblings, tobacco advertisement and especially interpersonal and psychological factors inclusive of stress and low self-esteem were significant influences in smoking initiation among adolescents. 
      Furthermore, Navas-Nacher (2015) suggested that exposure to cigarette smoking during childhood years was a significant risk factor for the reason that it was learned behaviour. This research found that exposure to household smoking behaviour also referred to as ‘living with a regular smoker who smoked in the home’ nearly doubled the risk of becoming a smoker compared to those who had never been exposed to household smoking. 40% of participants who reported that they had been exposed to smoking in the home they lived in during their childhood and adolescence years and 20% of them were current smokers.
      Inter-personal and psychological factors inclusive of stress and low self-esteem including already identified nicotine addiction were significant factors among adult smokers (Joffer, 2014). This research also indicated that people smoke for a variety of reasons related to family and social pressures, risk seeking, stress reductions and more. They may pass through stages of smoking from trying a cigarette to addiction and they suffer nicotine withdrawal with abrupt decrease from cigarettes along the way (Joffer, 2014).
@@ -84,4 +82,5 @@ Recruitment
 
      An overall Analysis inclusive of a Fixed-effect and a Random-effect Analysis of all fourteen studies was conducted. Previously was decided that if heterogeneity was found among studies, individual subgroup analyses would be conducted to further investigate these results. The details of this are described in the Methods section.
 
+    
     
