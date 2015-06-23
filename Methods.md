@@ -1,4 +1,22 @@
-## Chapter 2: Methods
+# Chapter 3: Methods
+
+A meta analysis was conducted to measure the effectiveness of Internet and cell phone based interventions for the quitting and prevention of longer term relapse of smoking. The rationale and steps of the meta analysis are prsented below.
+
+Now write the steps of the meta analysis in clear simple English so that anyone reading this can reproduce your steps. Write under the following headeings:
+
+## Study Question
+
+Compared with traditional or all other approaches that do not use the Internet or cell phone based messaging as their primary means, what is the effectiveness of Internet based and cell phone based interventions for longer term smoking cessation among smokers and for longer term quitting?
+
+## Inclusion and Exclusion criteria for Studies
+Studies were included in this reseasrch if they met the following criteria:
+
+1. The research studied adult populations
+2. ..
+3. 
+
+Finish the list. 
+
 
 ## Steps of the Meta-Analysis
 
@@ -10,5 +28,6 @@ There are several advantages in conducting a Meta-Analysis. These include achiev
 
 
 
+    
     
     
