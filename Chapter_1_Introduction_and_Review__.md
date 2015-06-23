@@ -70,7 +70,7 @@ This model of behaviour change divides itself into the stages of change, process
      More health care providers are now including Internet and Cell phone components inclusive of text messaging, emails, accessing websites, accessing video clips online, access to online discussion forums and information within their smoking cessation programmes. The Internet and Cell phone allows people to receive information and treatment at any time, wherever they are and it provides anonymity. 
 
 
-** Internet- and Cell phone-based interventions in smoking cessation**
+**Internet- and Cell phone-based interventions in smoking cessation**
 
 The Internet and Cell phone have become increasingly useful in the delivery of health care including smoking cessation programmes world-wide and within New Zealand. Internet- and Cell phone-based interventions are described as interventions in which the Internet and Cell phone are a main part of the smoking cessation programme. These  mentioned interventions are inclusive of but not limited to access to websites containing information about dangers of smoking, quitting, prevention of relapse, questionnaires, online discussion forums, access to private chat messages and online peer support, online smoking cessation diary, , informative and motivational emails and text messages including advice and suggestions about strategies how to cope with craving situations, interactive voice response and video clips containing information about smoking and presentations from medical professionals.
 
@@ -100,7 +100,7 @@ Research done by Ybarra et al. (2012) assessed cessation rates in a text-messagi
 
 Research done by Riley et al. (2008) assessed Internet- and cell phone-based interventions among college students. At 6 weeks 45% achieved abstinence (self-reported) and 42% were based on cotinine verification. These results indicate that Internet- and Cell phone-based interventions are potentially efficacious and an easily disseminated method for providing cessation interventions to young adult smokers. This study included 31 college students aged between 18 and 24 years. The web-based component of this intervention provided the participants with educational modules including information about smoking and smoking dangers, progress-monitoring tools including quit calendar and email alerts to user-selected significant others who would provide social support at critical times during the programme. Text messages were personalised and on the basis of participants individual quit date. Participants received between one and three text messages daily. These included personal advice about how to stay quit, strategies how to cope with craving situations and how to stay abstinent. Most participants received two text messages daily. Additionally participants could sent an ‘emergency message’ when the needed additional support. 
 
-** Add a supporting paragraph here to summarise what sense you make of these various studies (this list is very short even at this stage. Much of these could be just put into a table and important points summarised that way. Use this paragraph to justify that while Internet based interventions and cell phone based interventions are generally shown to be effective, the apparent effectiveness of these programmes are short lived. Then ask the question what would be the effectiveness of Internet based and cellphone based programmes for longer term cessation of smoking among the target audience? Then add a paragraph where you add the questions specific to this research**.
+**Add a supporting paragraph here to summarise what sense you make of these various studies (this list is very short even at this stage. Much of these could be just put into a table and important points summarised that way. Use this paragraph to justify that while Internet based interventions and cell phone based interventions are generally shown to be effective, the apparent effectiveness of these programmes are short lived. Then ask the question what would be the effectiveness of Internet based and cellphone based programmes for longer term cessation of smoking among the target audience? Then add a paragraph where you add the questions specific to this research**.
 
 
 **2.5 Search Results of Literature**
@@ -108,12 +108,7 @@ Research done by Riley et al. (2008) assessed Internet- and cell phone-based int
 112 articles were retrieved from the main database search and five articles were retrieved from other database searches. After duplicates were removed, the title and abstract of 92 articles was studied and four articles were gained and discovered using the reference research method. Full text was obtained of 25 articles and seven articles were obtained from a previous search of the literature.  The seven articles which were obtained from a previous search of the literature were used to demonstrate evidence of previous research conducted in smoking cessation. After all fourteen studies met the inclusion criteria after their full texts have been assessed and were further investigated in this Meta-Analysis.
 
 
-## Steps of the Meta-Analysis
 
-## 2.6.1. The Role of this Meta-Analysis
- 
-     A Meta-Analysis was conducted to investigate the role of Internet-and Cell phone-based interventions ‘delivered via email, accessing websites, text messages’ to achieve longer-term cessation of smoking among adult smokers. A Meta-Analysis is referred to as a statistical combination of results from two or more primary studies (Cochrane, 2008). A Meta-Analysis refers to a method that uses statistical techniques to combine results from different studies to obtain a quantitative estimate of the overall effect of a particular intervention on a defined outcome. It is a statistical process for pooling data from many clinical trials to gain a clear conclusion (Medical Dictionary, 2015). 
-     There are several advantages in conducting a Meta-Analysis. These include achieving an increase in power as power is referred to as the chance of detecting a real effect of statistical significance if it exists, to improve accuracy known as the estimation of intervention effect which can be improved if it is based on more information, to assist in answering questions which are not presented by individual primary studies due to them involving a specific type of participants and specifically defined interventions, this way a selection of studies in which these specific characteristics differ can allow investigation  of the consistency of effect and reasons for the difference in effect estimates, to settle controversies arising from apparently conflicting studies and to generate new hypotheses. For this reason this statistical analysis of findings allows the degree of conflict to be formally assessed and reasons for different results to be explored and quantified.
      
 ## 2.6.2 Randomized controlled trials included in this Meta-Analysis
 
@@ -151,6 +146,7 @@ Recruitment
 
      An overall Analysis inclusive of a Fixed-effect and a Random-effect Analysis of all fourteen studies was conducted. Previously was decided that if heterogeneity was found among studies, individual subgroup analyses would be conducted to further investigate these results. The details of this are described in the Methods section.
 
+    
     
     
     
