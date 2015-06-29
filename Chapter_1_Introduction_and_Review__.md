@@ -24,7 +24,7 @@ Need more substance here. Particularly focus on how Internet and social media ca
 
 ## Review of Quitting Measures
 
-Velicer et al. (1997, cited in Velicer, 2004) classifies outcomes of smoking cessation **studies** (studies or programmes??) into three measures as follows:
+Velicer et al. (1997, cited in Velicer, 2004) classifies outcomes of smoking cessation programmes into three measures as follows:
 
 * point prevalence abstinence. --  refers to the proportion of people not smoking at any given point in time, 
 * continuous abstinence. --  refers to the proportion of people not smoking at all since the onset of the intervention 
@@ -118,3 +118,4 @@ Research done by Riley et al. (2008) assessed Internet- and cell phone-based int
     
     
     
+  
