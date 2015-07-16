@@ -4,7 +4,7 @@ Search Results of Literature
 
 The search results must be accompanied by graphs, tables, and figures Less writing. Start with your quorom chart. 
 
-112 articles were retrieved from the main database search and five articles were retrieved from other database searches. After duplicates were removed, the title and abstract of 92 articles was studied and four articles were gained and discovered using the reference research method. Full text was obtained of 25 articles and seven articles were obtained from a previous search of the literature.  The seven articles which were obtained from a previous search of the literature were used to demonstrate evidence of previous research conducted in smoking cessation. After all fourteen studies met the inclusion criteria after their full texts have been assessed and were further investigated in this Meta-Analysis.
+112 articles were retrieved from the main database search and seven additional articles were identified through other sources. After duplicates were removed, the title and abstract of 96 articles was studied and four articles were gained and discovered using the reference research method. Full text was obtained of 25 articles and seven articles were obtained from a previous search of the literature.  The seven articles which were obtained from a previous search of the literature were used to demonstrate evidence of previous research conducted in smoking cessation. After all fourteen studies met the inclusion criteria after their full texts have been assessed and were further investigated in this Meta-Analysis.
 
 
 
@@ -63,6 +63,7 @@ Recruitment
     
     
     
+  
   
   
   
