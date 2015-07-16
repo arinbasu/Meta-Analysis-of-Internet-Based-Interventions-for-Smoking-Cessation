@@ -60,6 +60,8 @@ This model of behaviour change divides itself into the stages of change, process
 
 ### Description of the stages in the context of smoking
 
+// Sabine, you do not need to worry too much about the stages of change model, as Mark was commenting that this is now deprecated. Put more emphasis on the classification of the smokers //
+
 **Pre-contemplation**  is described as the stage in which smokers are not thinking about quitting or intending to quit in the next 6 months. The reason for this may be people may not be informed about the consequences of smoking and demoralized in their ability to make the behaviour change. They may be resistant or unmotivated for behavioural change (Prochaska & DiClemente, 1983). The next stage is the contemplation stage, in which individuals are considering quitting within the next 6 months and people in this stage are more aware of the benefits of quitting. Furthermore, the preparation stage includes smokers who are intending on quitting smoking within the next 30 days. These smokers may have taken action in the past by reducing smoking or making a quit attempt and they also have a plan for action (Prochaska & Velicer, 1997). The action stage is the stage in which smokers have quit during the past 6 months and the maintenance stage consists of people who have quit for more than 6 months. This model also recognizes that people move through the stages in a spiral pattern in which some people progress through and relapse while others progress and successfully quit. (Velicer et al, 2004).
 
 
@@ -118,5 +120,6 @@ Research done by Riley et al. (2008) assessed Internet- and cell phone-based int
     
     
     
+  
   
   
