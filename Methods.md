@@ -17,11 +17,11 @@ Now write the steps of the meta analysis in clear simple English so that anyone 
 Compared with traditional or all other approaches that do not use the Internet or cell phone based messaging as their primary means, what is the effectiveness of Internet based and cell phone based interventions for longer term smoking cessation among smokers and for longer term quitting?
 
 ## Inclusion and Exclusion criteria for Studies
-Studies were included in this reseasrch if they met the following criteria:
+Studies were included in this research if they met the following criteria:
 
-1. The research studied adult populations
-2. ..
-3. 
+a.The research studied adolescents and adult population aged between 15 and 64 years residing anywhere in the world
+b. The research assessed Internet and Cell phone based interventions inclusive of but not limited to access to websites containing information about the dangers of smoking, quitting, relapse prevention, questionnaires, online discussion forums, access to private chat messages, diary, informative and motivational emails and text messages including advice and suggestions about strategies on how to cope with craving situations and interactive voice response. Studies were included if they offered Nicotine Replacement Therapy or Telephone Calls in addition to the Internet and Cell phone.
+ 
 
 **Finish the list**. 
 
@@ -75,4 +75,6 @@ Write here that you tested for publication bias by setting up Funnel Plot. Discu
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
+  
   
