@@ -11,7 +11,7 @@ The search results must be accompanied by graphs, tables, and figures Less writi
      
 ## 2.6.2 Randomized controlled trials included in this Meta-Analysis
 
-     Fourteen studies met the inclusion criteria after their full texts have been assessed.
+Fourteen studies met the inclusion criteria after their full texts have been assessed.
 Three of them inclusive of Borland (2013), Brendryen (2008) and Brendryen (2008) assessed both Internet- and Cell phone-based interventions. Six of them inclusive of Elfeddali (2012), Haug (2011), McKay (2008), Seidman (2010), Wangberg (2011) and Zbikowski (2011) evaluated Internet-based interventions. Additionally five studies inclusive of Free (2009), Free (2011), Haug (2013), Rodgers (2005) and Skov-Ettrup (2014) investigated Cell phone-based interventions. Furthermore (Brendryen 2008) included Nicotine Replacement Therapy and Zbikowski (2011) included additional telephone calls.
 
 ## Description of included studies
@@ -63,6 +63,7 @@ An overall Analysis inclusive of a Fixed-effect and a Random-effect Analysis of 
     
     
     
+  
   
   
   
