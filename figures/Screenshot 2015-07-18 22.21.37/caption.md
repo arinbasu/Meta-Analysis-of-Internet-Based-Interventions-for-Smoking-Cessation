@@ -1,1 +1,2 @@
-Replace this text with your caption
+Quorom Chart of the studies
+  
