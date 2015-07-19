@@ -56,8 +56,11 @@ Write here how were the full texts of the studies retrieved and what did you do 
 
 ## Summarising the Results of the Study: Random effects versus fixed effects meta analysis
 
-First of all, discuss heere what is meant by fixed effects versus random effects meta analysis. Then write, what did you do for this particular thesis. Give the equations and steps. State that you used R and Stata for this purpose. Summarising the results of the studies is done by creating Forest Plots
+First of all, discuss here what is meant by fixed effects versus random effects meta analysis. Then write, what did you do for this particular thesis. Give the equations and steps. State that you used R and Stata for this purpose. Summarising the results of the studies is done by creating Forestlots
 
+A Meta-Analysis uses two models, one is the Fixed-Effects Model and the Random-Effects Model.
+In a Fixed-Effects Analysis it is assumed that all included studies share a common true effect size. The observed effects are distributed, with a variance that depends primarily on the sample size of each study. There is only one level of sampling since all studies are sampled from a population with effect size()therefore only one source of sampling error exists within the studies. Since the goal of this approach is to assign more weight to the studies that carry more information, researchers may propose to weight each study by its sample size so that for instance a study with 1000 participants would get ten times the weight of a with only 100 participants. Assignement of weights is applied on the inverse of variance rather than sample size. The inverse variance is roughly proportional to sample sizes but is a more nuanced measure. It also serves to minimize the variance of the combined effect.
+The Fixed-Effects Model discussed above starts with the assumption that the true effect is the same in all studies however the assumption may be implausible in some reviews. When the decision is made to incorporate a group of studies a Meta-Analysis, it is assumed that the studies have enough in common that it makes sense to synthesize the information rather than assume that there is one true effect.
 ## Assessment of the heterogeneity of studies
 
 You used I-squared tests. write about that.
@@ -75,6 +78,7 @@ Write here that you tested for publication bias by setting up Funnel Plot. Discu
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
