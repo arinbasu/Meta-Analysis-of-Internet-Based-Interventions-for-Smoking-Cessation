@@ -1,6 +1,6 @@
 # Chapter 3: Methods
 
-A meta analysis was conducted to measure the effectiveness of Internet and cell phone based interventions for the quitting and prevention of longer term relapse of smoking. The rationale and steps of the meta analysis are prsented below.
+A meta analysis was conducted to measure the effectiveness of Internet and Cell phone- based interventions for the quitting and prevention of longer term relapse of smoking. The rationale and steps of the meta analysis are presented below.
 
 ## 2.6.1. The Role of this Meta-Analysis
  
@@ -14,13 +14,19 @@ Now write the steps of the meta analysis in clear simple English so that anyone 
 
 ## Study Question
 
-Compared with traditional or all other approaches that do not use the Internet or cell phone based messaging as their primary means, what is the effectiveness of Internet based and cell phone based interventions for longer term smoking cessation among smokers and for longer term quitting?
+Compared with traditional or all other approaches that do not use the Internet or Cell phone-based messaging as their primary means, what is the effectiveness of Internet based and Cell phone-based interventions for longer term smoking cessation among smokers and for longer term quitting?
 
 ## Inclusion and Exclusion criteria for Studies
 Studies were included in this research if they met the following criteria:
 
-a.The research studied adolescents and adult population aged between 15 and 64 years residing anywhere in the world
-b. The research assessed Internet and Cell phone based interventions inclusive of but not limited to access to websites containing information about the dangers of smoking, quitting, relapse prevention, questionnaires, online discussion forums, access to private chat messages, diary, informative and motivational emails and text messages including advice and suggestions about strategies on how to cope with craving situations and interactive voice response. Studies were included if they offered Nicotine Replacement Therapy or Telephone Calls in addition to the Internet and Cell phone.
+1.The research studied adolescents and adult population aged between 15 and 64 years residing anywhere in the world
+2.The research assessed Internet and Cell phone-based interventions inclusive of but not limited to access to websites containing information about the dangers of smoking, quitting, relapse prevention, questionnaires,discussion forums, access to private chat messages, quitting diary, informative and motivational emails and text messages including advice and suggestions about strategies on how to cope with craving situations and interactive voice response. Studies were included if they offered Nicotine Replacement Therapy or Telephone Calls in addition to the Internet and Cell phone.
+3.The research compared Internet-and Cell phone-based interventions with a)interventions which did not include any Internet-or Cell phone components and included but were not limited of self-treatment, phone or face to face counseling, herbal remedies, e-cigarette, hypnosis and those which included b)Internet or Cell phone components but at a lower frequency
+4.The research assessed studies whose primary outcome was abstinence of smoking for at least 6 months after the start of the intervention or 12 months wherever data was available.
+5.The research measured self-reported abstinence and included the ones that included biochemical validation.
+6.The research was an Randomized Controlled Trail(RCT) because they use high quality.
+7.The research was conducted in English Language or a written translation was available.
+8.The research was published between the 1st January 2004 to 1st April 2014.
  
 **Finish the list**. 
 
@@ -87,6 +93,7 @@ Write here that you tested for publication bias by setting up Funnel Plot. Discu
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
