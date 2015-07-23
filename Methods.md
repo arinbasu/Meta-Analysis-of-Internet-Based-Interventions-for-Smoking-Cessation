@@ -56,6 +56,19 @@ Fugitive literature refers to those studies where the author may have conducted 
 You need to convince your readers that you did as comprehensive a search as possible. Write here that you rand hand searches following reading the full texts of all studies included in the full text appraisal to look for more studies. So, you searched the University of Canterbury library archives, etc. Write that in details here. 
 
 ## Critical Appraisal of the studies included in the full text
+Assessment of Risk of Bias in included studies
+Bias was assessed using the Cochrane Collaboration’s tool for assessment of Risk of Bias (Higgins 2011a, Higgins 2011b). The following criteria was assessed using the “Cochrane Collaboration Risk of Bias Tool” which is a domain- based evaluation and includes the following parts: Random sequence generation (selection bias), Allocation concealment (selection bias), Blinding (performance bias and detection bias, blinding of participants), incomplete outcome data (attrition bias), selective reporting (reporting bias) and other bias (publication bias). The Risk of Bias criteria was judged as “low risk”, “high risk” or “unclear risk” (lack of information or uncertainty over the potential bias). The following table is the guide with the specific questions of the “Risk of Bias Tool
+
+Table. “Cochrane Collaboration Risk of Bias Tool”
+Bias	Question
+Random Sequence generation	Was the allocation sequence adequately generated?
+Allocation Concealment	Was the allocation adequately concealed?
+Blinding	Was knowledge of the allocated interventions adequately prevented during the study?
+Incomplete  Outcome Data	Were incomplete outcome data adequately addressed?
+Selective Outcome Reporting	Are reports of the study free of suggestion of selective outcome reporting?
+Other Sources of  Bias	Was the study apparently free of other problems that could put it at a high risk of bias?
+
+
 
 Write here how were the full texts of the studies retrieved and what did you do to appraise them critically. There are critical appraisal checklists available. Write how you noted their biases and how you conducted their risk of bias tables. This table will be needed in the results section
 
@@ -107,6 +120,7 @@ Publication Bias was tested by setting up a Funnel Plot. The Funnel Plot is grap
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
