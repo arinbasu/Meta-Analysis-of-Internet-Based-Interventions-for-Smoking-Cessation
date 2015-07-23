@@ -78,9 +78,14 @@ The Fixed-Effects Method discussed above starts with the assumption that the tru
 
 ## Assessment of the heterogeneity of studies
 
-You used I-squared tests. write about that.
+An assessment of heterogeneity using I-squared statistics was conducted. I- squared statistics describes the percentage of variation across the different studies and it expresses the inconsistency of the results of the studies.This formula was used to calculate I-square "I" ^2=(("Q" -"df" ))/"Q"  "*" 100
+If the studies were found to be statistically homogeneous based on the I-statistic cut off value (p= 0.1) then the results from these studies were combined. 
+If on the other hand, the studies demonstrated a lack of homogeneity on the basis of statistical tests then the studies were further investigated to identify the causes of their heterogeneity.
+ A significance level of 0.1 was used as an indication and the following interpretation guide was used: 0-40% indicates might not be important; 30-60% indicates “may represent moderate heterogeneity”; 50-70% “may represent substantial heterogeneity” and 75% or more indicates a “considerable level of inconsistency” (Higgins 2011a).
+
 
 ## Summarising the Studies: Odds Ratio and Forest PLot
+ The results of the studies were combined and the following formula was used to calculate the Odds Ratio (OR)
 
 Give the formula for the Odds Ratio, the 95% Confidence Interval and write how you constructed the Forest Plot
 
@@ -93,6 +98,7 @@ Write here that you tested for publication bias by setting up Funnel Plot. Discu
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
