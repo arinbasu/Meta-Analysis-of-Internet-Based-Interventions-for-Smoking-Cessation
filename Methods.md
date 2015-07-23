@@ -1,6 +1,6 @@
 # Chapter 3: Methods
 
-A meta analysis was conducted to measure the effectiveness of Internet and Cell phone- based interventions for the quitting and prevention of longer term relapse of smoking. The rationale and steps of the meta analysis are presented below.
+A meta analysis was conducted to measure the effectiveness of Internet- and Cell phone- based interventions for the quitting and prevention of longer term relapse of smoking. The rationale and steps of the meta analysis are presented below.
 
 ## 2.6.1. The Role of this Meta-Analysis
  
@@ -39,10 +39,10 @@ A study was excluded from this research if:
 **Finish this list**
 
 ## Search Terms and Databases Searched
-Search terms
-Search terms for the database search included: “smok” OR “smoking” OR “tobacco” OR “cigarette” OR “nicotine” OR “tobacco smoking” OR “cigarette smoking” AND “smoking cessation” OR “nicotine withdrawal” OR “tobacco cessation” OR “online therapy” OR “quit” OR “quitting” OR “e-therapy” OR “electronic therapy” AND “Internet” OR “online” OR “net” OR “world-wide web” OR “web” OR “www” OR “computer-mediated communication” OR “facebook” OR “twitter” OR “blog” OR “cellular phone” OR “cellphone” OR “mobile phone” OR “text-messaging” OR “text” OR “txt” OR “sms” OR “mms” AND “young adult (19-24 years)” OR “adult (19-44 years)” OR “young adult & adult (19-24 years & 45-64 years)” OR “middle age (45 plus years) AND “English Language” AND “2004-2014”.
 
-Literature Databases 
+The following search terms for the database search included: “smok” OR “smoking” OR “tobacco” OR “cigarette” OR “nicotine” OR “tobacco smoking” OR “cigarette smoking” AND “smoking cessation” OR “nicotine withdrawal” OR “tobacco cessation” OR “online therapy” OR “quit” OR “quitting” OR “e-therapy” OR “electronic therapy” AND “Internet” OR “online” OR “net” OR “world-wide web” OR “web” OR “www” OR “computer-mediated communication” OR “facebook” OR “twitter” OR “blog” OR “cellular phone” OR “cellphone” OR “mobile phone” OR “text-messaging” OR “text” OR “txt” OR “sms” OR “mms” AND “young adult (19-24 years)” OR “adult (19-44 years)” OR “young adult & adult (19-24 years & 45-64 years)” OR “middle age (45 plus years) AND “English Language” AND “2004-2014”.
+
+The following databases of the literature were searched:
 A search through Pubmed, Medline, Google Scholar, Psyc Literature, CINAHL (Cumulative Index of Nursing & Allied Health Literature Database, Web of Science, Collected Health Literature Related Databases which are maintained at UC and the Cochrane Database of Systematic Reviews or CDSR was conducted. 
 
 
@@ -112,11 +112,6 @@ If on the other hand, the studies demonstrated a lack of homogeneity on the basi
  The findings are presented in a Forest Plot created using the Review Manager Software (RevMan). The Forest Plot illustrates the effect size and precision for each study (95% CI) and for the combined effect. It shows whether the combined effect is based on a few studies or many and whether the effect size is consistent or if it varies (OR 95% CI). Data entry is presented in two columns. The left- hand column includes the list the names of the studies (Randomized Controlled Trials). The right-hand column presents the plot of the measure of the effect (OR) for each of the studies which is illustrated as a square. The overall meta-analyzed measure of the effect is presented on the plot as a dashed vertical line. The meta-analyzed measure of effect is plotted as a diamond. Other points are used to indicate the confidence interval (CI) for the estimate. Then a vertical line which represents no effect was plotted. If the confidence intervals of the individual studies overlapped with the line it demonstrates that at given level of confidence their effect sizes do not differ from no effect for each individual study. If the points of the diamond overlapped the line of the no effect the overall meta-analyzed result meant it did not differ from no effect at the given level of confidence.
 
  
-
-
- 
- 
-
 Give the formula for the Odds Ratio, the 95% Confidence Interval and write how you constructed the Forest Plot
 
 ## Testing for Publication Bias: visual inspection
@@ -128,6 +123,7 @@ Publication Bias was tested by setting up a Funnel Plot. The Funnel Plot is grap
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
