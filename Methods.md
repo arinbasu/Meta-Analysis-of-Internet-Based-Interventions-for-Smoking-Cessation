@@ -85,7 +85,16 @@ If on the other hand, the studies demonstrated a lack of homogeneity on the basi
 
 
 ## Summarising the Studies: Odds Ratio and Forest PLot
- The results of the studies were combined and the following formula was used to calculate the Odds Ratio (OR)
+ The results of the studies were combined and the following formula was used to calculate the Odds Ratio: 
+ 
+ 
+ The findings are presented in a Forest Plot created using the Review Manager Software (RevMan). The Forest Plot illustrates the effect size and precision for each study (95% CI) and for the combined effect. It shows whether the combined effect is based on a few studies or many and whether the effect size is consistent or if it varies (OR 95% CI). Data entry is presented in two columns. The left- hand column includes the list the names of the studies (Randomized Controlled Trials). The right-hand column presents the plot of the measure of the effect (OR) for each of the studies which is illustrated as a square. The overall meta-analyzed measure of the effect is presented on the plot as a dashed vertical line. The meta-analyzed measure of effect is plotted as a diamond. Other points are used to indicate the confidence interval (CI) for the estimate. Then a vertical line which represents no effect was plotted. If the confidence intervals of the individual studies overlapped with the line it demonstrates that at given level of confidence their effect sizes do not differ from no effect for each individual study. If the points of the diamond overlapped the line of the no effect the overall meta-analyzed result meant it did not differ from no effect at the given level of confidence.
+
+ 
+
+
+ 
+ 
 
 Give the formula for the Odds Ratio, the 95% Confidence Interval and write how you constructed the Forest Plot
 
@@ -98,6 +107,7 @@ Write here that you tested for publication bias by setting up Funnel Plot. Discu
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
