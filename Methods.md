@@ -99,7 +99,7 @@ If on the other hand, the studies demonstrated a lack of homogeneity on the basi
 Give the formula for the Odds Ratio, the 95% Confidence Interval and write how you constructed the Forest Plot
 
 ## Testing for Publication Bias: visual inspection
-
+A Funnel Plot is graphically presented using the Review Manager Software (RevMan). The Funnel Plot will show the assumptions that the largest studies will be near the average and the small studies will be spread on both sides of the average. If there are any variations shown from this assumption there is a likelihood that publication bias exists. A symmetric inverted funnel shape will indicate well-presented data in which publication bias is very unlikely. And an asymmetric funnel shape will indicate the relationship between the treatment effect and the study size.
 Write here that you tested for publication bias by setting up Funnel Plot. Discuss what a funnel plot means and why and how you will use the Funnel Plot to visualise the distribution of studies.
 
 ## Subgroup Analysis
@@ -107,6 +107,7 @@ Write here that you tested for publication bias by setting up Funnel Plot. Discu
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
