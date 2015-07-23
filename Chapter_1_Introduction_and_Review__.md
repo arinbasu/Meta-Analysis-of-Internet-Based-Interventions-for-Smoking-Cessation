@@ -46,12 +46,15 @@ West (2009) proposes The Russell Standard, named after **??Russell (give a short
 * Lost to follow up at 4 weeks (LFU4W). -- A smoker is counted as ‘lost to follow up at 4 weeks (LFU4W)’ if on attempting to determine the 4 –week quitter status, he/she cannot be contacted; 
 * 52-week Quitter (52WQ). --  A smoker is counted as a ’52-weeks quitter (52WQ)’ if he/ she is a ‘treated smoker’, is assessed (Face-to face, by postal questionnaire or telephone) 52 weeks after the designated quit date (plus or minus 30days) and declares that he/she has not smoked more than five cigarettes in the past 50 weeks. 
 * "Lost to Follow Up at 52 Weeks (LFU52W)". --  A ‘treated smoker’ is counted as a ‘lost to follow up at 52 weeks (LFU52W)’ if on attempting to determine the 52-week quitter status, he/she cannot be contacted.
+* 
 
-## Trans-theoretical Model of Behaviour Change (TTM)
+**Theory of Addiction** 
+We need a linking paragraph here as to why all of a sudden you are talking about this
 
-We need a linking paragraph here as to why all of a sudden you are talking about the transtheoretical model. 
+Robert West(2007) developed the Theory of Addiction , a theory which put the previous used Trans-theoretical model, developed by Prochaska and DiClemente (1983) at rest.The Theory of Addiction is based on a synthetic theory of motivation that focuses on the moment-to moment control of actions through casual pathsways through varying the lengths ad levels of complexity from single reflexes, through impulses and inhibitory forces, the desires,drives and emotional states to 
 
-Prochaska and DiClemente (1983) developed the Trans-theoretical Model of Behaviour Change which describes the progression through which smokers go through before terminating their addiction. **Note that this is a general model, you are applying it to the context of smoking cessation. You still have not brought in the issue of Internet here or the role of interventions. This is the phase here where you shall bring it in**. 
+Trans-theoretical Model of Behaviour Change which describes the progression through which smokers go through before terminating their addiction.
+You still have not brought in the issue of Internet here or the role of interventions. This is the phase here where you shall bring it in**. 
 
 This model of behaviour change divides itself into the stages of change, processes of change and levels of change and it identifies five stages of readiness for changing a health behaviour including smoking behaviour among smokers:
 **Add a figure here** (see above in the preface as to how to add figures) 
@@ -120,6 +123,7 @@ Research done by Riley et al. (2008) assessed Internet- and cell phone-based int
     
     
     
+  
   
   
   
