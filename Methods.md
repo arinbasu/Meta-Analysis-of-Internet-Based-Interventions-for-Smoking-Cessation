@@ -39,6 +39,14 @@ A study was excluded from this research if:
 **Finish this list**
 
 ## Search Terms and Databases Searched
+Search terms
+Search terms for the database search included: “smok” OR “smoking” OR “tobacco” OR “cigarette” OR “nicotine” OR “tobacco smoking” OR “cigarette smoking” AND “smoking cessation” OR “nicotine withdrawal” OR “tobacco cessation” OR “online therapy” OR “quit” OR “quitting” OR “e-therapy” OR “electronic therapy” AND “Internet” OR “online” OR “net” OR “world-wide web” OR “web” OR “www” OR “computer-mediated communication” OR “facebook” OR “twitter” OR “blog” OR “cellular phone” OR “cellphone” OR “mobile phone” OR “text-messaging” OR “text” OR “txt” OR “sms” OR “mms” AND “young adult (19-24 years)” OR “adult (19-44 years)” OR “young adult & adult (19-24 years & 45-64 years)” OR “middle age (45 plus years) AND “English Language” AND “2004-2014”.
+
+Literature Databases 
+A search through Pubmed, Medline, Google Scholar, Psyc Literature, CINAHL (Cumulative Index of Nursing & Allied Health Literature Database, Web of Science, Collected Health Literature Related Databases which are maintained at UC and the Cochrane Database of Systematic Reviews or CDSR was conducted. 
+
+
+
 Write here in details what search terms were employed and what databases were searched. How did you know that the search terms you used were good enough?
 
 List all the databases you searched in the following list. 
@@ -120,6 +128,7 @@ Publication Bias was tested by setting up a Funnel Plot. The Funnel Plot is grap
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
