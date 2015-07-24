@@ -2,11 +2,11 @@
 
 A meta analysis was conducted to measure the effectiveness of Internet- and Cell phone- based interventions for the quitting and prevention of longer term relapse of smoking. The rationale and steps of the meta analysis are presented below.
 
-## 2.6.1. The Role of this Meta-Analysis
+## The Role of this Meta-Analysis
  
-A Meta-Analysis was conducted to investigate the role of Internet-and Cell phone-based interventions ‘delivered via email, accessing websites, text messages’ to achieve longer-term cessation of smoking among adult smokers. A Meta-Analysis is referred to as a statistical combination of results from two or more primary studies (Cochrane, 2008). A Meta-Analysis refers to a method that uses statistical techniques to combine results from different studies to obtain a quantitative estimate of the overall effect of a particular intervention on a defined outcome. It is a statistical process for pooling data from many clinical trials to gain a clear conclusion (Medical Dictionary, 2015). 
+The purpose of this meta analysis was to investigate the role of Internet-and Cell phone-based interventions ‘delivered via email, accessing websites, text messages’ to achieve longer-term cessation of smoking among adult smokers. In meta analysis, results from two or more primary studies are pooled to arrive at a summary estimate. Meta analyses refer to a systematic process of framing a research question, conducting a search of the available literature, assessment of the similarities or homogeneity of the studies, and after establishment of whether the studies are homogeneous or heterogeneous, the results from these studies are pooled together in a number of different ways to arrive at a set of summary results.  
 
-There are several advantages in conducting a Meta-Analysis. These include achieving an increase in power as power is referred to as the chance of detecting a real effect of statistical significance if it exists, to improve accuracy known as the estimation of intervention effect which can be improved if it is based on more information, to assist in answering questions which are not presented by individual primary studies due to them involving a specific type of participants and specifically defined interventions, this way a selection of studies in which these specific characteristics differ can allow investigation  of the consistency of effect and reasons for the difference in effect estimates, to settle controversies arising from apparently conflicting studies and to generate new hypotheses. For this reason this statistical analysis of findings allows the degree of conflict to be formally assessed and reasons for different results to be explored and quantified.
+Meta analyses are useful for the following reasons: (1) using meta analyses, it is useful to achieve an increase in power by pooling together small studies; (2) improve accuracy known as the estimation of intervention effect which can be improved if it is based on more information, to assist in answering questions which are not presented by individual primary studies due to them involving a specific type of participants and specifically defined interventions, this way a selection of studies in which these specific characteristics differ can allow investigation  of the consistency of effect and reasons for the difference in effect estimates, to settle controversies arising from apparently conflicting studies and to generate new hypotheses. For this reason this statistical analysis of findings allows the degree of conflict to be formally assessed and reasons for different results to be explored and quantified.
 
 ## Steps of the Meta Analysis
 
@@ -39,6 +39,8 @@ A study was excluded from this research if:
 **Finish this list**
 
 ## Search Terms and Databases Searched
+
+**We want a detailed breakdown of the search strategy**
 
 The following search terms for the database search included: “smok” OR “smoking” OR “tobacco” OR “cigarette” OR “nicotine” OR “tobacco smoking” OR “cigarette smoking” AND “smoking cessation” OR “nicotine withdrawal” OR “tobacco cessation” OR “online therapy” OR “quit” OR “quitting” OR “e-therapy” OR “electronic therapy” AND “Internet” OR “online” OR “net” OR “world-wide web” OR “web” OR “www” OR “computer-mediated communication” OR “facebook” OR “twitter” OR “blog” OR “cellular phone” OR “cellphone” OR “mobile phone” OR “text-messaging” OR “text” OR “txt” OR “sms” OR “mms” AND “young adult (19-24 years)” OR “adult (19-44 years)” OR “young adult & adult (19-24 years & 45-64 years)” OR “middle age (45 plus years) AND “English Language” AND “2004-2014”.
 
@@ -123,6 +125,7 @@ Publication Bias was tested by setting up a Funnel Plot. The Funnel Plot is grap
 Write here that you conducted subgroup analyses following analysis of the entire data set. What were the criteria on the basis of which you selected the sub groups? Write that here. 
 
 
+  
   
   
   
